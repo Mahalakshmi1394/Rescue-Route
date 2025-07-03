@@ -14,40 +14,52 @@ Built to transform emergency response from isolated actions to collective impact
 
 
 ## 🚀 Key Features
+![dashborad](https://github.com/user-attachments/assets/3c48128b-fed5-4761-adea-5379a75d3cad)
+
 
 ### 📍 Live Emergency Map (Crowd-Sourced)
 - Displays real-time emergency reports from users on an interactive map
 - Color-coded markers based on severity (e.g., red for critical, orange for medium)
 - Filters for different types: 🚑 Medical, 🔥 Fire, 🚗 Accidents, 🌊 Floods
 - Clickable pins showing detailed reports, images, and user info
+![Screenshot (627)](https://github.com/user-attachments/assets/19a69ba5-a5e6-4e07-ab4b-f5965aace72f)
 
 
 ### 🚨 Emergency Reporting System
 - Simple form to submit reports: title, description, location, images, and urgency
 - Auto-logs timestamp and coordinates
 - Validated reports shown on map instantly
+- ![user reports](https://github.com/user-attachments/assets/311b2152-f58d-46b1-9180-eadf581b75d7)
+
 
 ### 🆘 SOS Alerts & Live Location Sharing
 - Users can send an SOS with one click
 - Shares live GPS coordinates to emergency responders and verified partners
 - Critical for solo travelers, women, or disaster victims
+- #### Emergency request sent through WHATSAPP
 
 ### 💡 Resource Request Hub
 - Request essential items like **blood, food, medicine, clothing**, and **rescue assistance**
 - Requests visible to nearby volunteers and organizations
 - Real-time updates and status tracking for each request
+- ![res request](https://github.com/user-attachments/assets/79a95dee-931b-479d-95a0-643857e8a5b8)
+
 
 ### 🛍️ Donation & Shopping Mart (Under ₹100)
 - Donate or request essentials for **free or under ₹100**
 - All listings are crowd-powered and verified by admin/moderators
 - Earn **Rescue Coins** for verified contributions
 - Gamified reward system: users receive badges, coins, and recognition for acts of help
+- ![mart](https://github.com/user-attachments/assets/52a8fdbc-7686-47f2-9f23-17dba402e9e6)
+
 
 ### 🤝 Partner Hub – Verified Institution Network
 - Connect with verified **police stations**, **hospitals**, **NGOs**, and **volunteer teams**
 - Share live location, chat, and send help requests
 - Partners can view and respond to SOS calls directly
 - Builds a trustworthy rescue ecosystem
+- ![Screenshot (630)](https://github.com/user-attachments/assets/aec814c9-0815-46d6-a5f8-5b2bb695e721)
+
 
 ### 🧠 Community & Rewards
 - **Leaderboard** for top contributors
@@ -89,10 +101,10 @@ Built to transform emergency response from isolated actions to collective impact
 
 ## 👥 Contributors
 
-- **MAHALAKSHMI U** – Full Stack Developer & Project Lead 
-## 📬 Contact
+- **MAHALAKSHMI U && MEENAKSHISUNDARAM D** – Full Stack Developer & Project Lead 
 
-For collaboration, suggestions, or contributions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maha-lakshmi-216492261/) or email: yourname@example.com.
+
+For collaboration, suggestions, or contributions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maha-lakshmi-216492261/) or email: roshithmaha@gmail.com
 
 ---
 
