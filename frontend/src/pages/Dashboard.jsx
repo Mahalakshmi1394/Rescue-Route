@@ -77,7 +77,7 @@ const features = [
     color: "bg-orange-500/10 text-orange-400"
   },
   {
-    title: "Disaster Center (COMMING SOON)",
+    title: "Disaster Center (COMING SOON)",
     icon: "🌪️",
     path: "/DisasterHelpCenter",
     points: [
@@ -89,7 +89,7 @@ const features = [
     color: "bg-pink-500/10 text-pink-400"
   },
   {
-    title: "Verification System (COMMING SOON)",
+    title: "Verification System (COMING SOON)",
     icon: "✅",
     path: "/Verification",
     points: [
